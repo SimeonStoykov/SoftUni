@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb

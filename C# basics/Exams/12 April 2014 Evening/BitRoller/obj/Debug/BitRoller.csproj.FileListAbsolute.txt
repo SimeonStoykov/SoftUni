@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\BitRoller\bin\Debug\BitRoller.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\BitRoller\bin\Debug\BitRoller.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\BitRoller\bin\Debug\BitRoller.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\BitRoller\obj\Debug\BitRoller.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\BitRoller\obj\Debug\BitRoller.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\BitRoller\obj\Debug\BitRoller.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\BitRoller\bin\Debug\BitRoller.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\BitRoller\obj\Debug\BitRoller.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\BitRoller\obj\Debug\BitRoller.pdb

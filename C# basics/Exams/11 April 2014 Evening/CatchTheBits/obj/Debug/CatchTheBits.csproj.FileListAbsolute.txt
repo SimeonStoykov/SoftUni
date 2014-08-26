@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\CatchTheBits\bin\Debug\CatchTheBits.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\CatchTheBits\bin\Debug\CatchTheBits.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\CatchTheBits\obj\Debug\CatchTheBits.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\CatchTheBits\obj\Debug\CatchTheBits.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\CatchTheBits\obj\Debug\CatchTheBits.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\CatchTheBits\obj\Debug\CatchTheBits.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\CatchTheBits\obj\Debug\CatchTheBits.pdb

@@ -1,0 +1,15 @@
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb
+C:\Users\Simeon\Desktop\New folder\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+C:\Users\Simeon\Desktop\New folder\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+C:\Users\Simeon\Desktop\New folder\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

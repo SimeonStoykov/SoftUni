@@ -1,0 +1,8 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Rectangles\bin\Debug\Rectangles.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Rectangles\bin\Debug\Rectangles.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Rectangles\bin\Debug\Rectangles.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Rectangles\obj\Debug\Rectangles.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\Rectangles\obj\Debug\Rectangles.pdb

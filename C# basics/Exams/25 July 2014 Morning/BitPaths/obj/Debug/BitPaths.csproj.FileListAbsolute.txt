@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPaths\bin\Debug\BitPaths.exe.config
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPaths\bin\Debug\BitPaths.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPaths\bin\Debug\BitPaths.pdb
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPaths\obj\Debug\BitPaths.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPaths\obj\Debug\BitPaths.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPaths\obj\Debug\BitPaths.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\BitPaths\bin\Debug\BitPaths.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\BitPaths\obj\Debug\BitPaths.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\BitPaths\obj\Debug\BitPaths.pdb

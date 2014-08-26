@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache

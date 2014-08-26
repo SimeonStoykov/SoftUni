@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

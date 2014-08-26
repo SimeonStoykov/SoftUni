@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\JoinLists\bin\Debug\JoinLists.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\JoinLists\bin\Debug\JoinLists.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\JoinLists\bin\Debug\JoinLists.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\JoinLists\obj\Debug\JoinLists.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\JoinLists\obj\Debug\JoinLists.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\JoinLists\obj\Debug\JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\JoinLists\bin\Debug\JoinLists.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\JoinLists\obj\Debug\JoinLists.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\JoinLists\obj\Debug\JoinLists.pdb

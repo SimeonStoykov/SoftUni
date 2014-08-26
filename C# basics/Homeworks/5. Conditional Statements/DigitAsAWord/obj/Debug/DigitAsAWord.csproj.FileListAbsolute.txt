@@ -1,0 +1,6 @@
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\DigitAsAWord\bin\Debug\DigitAsAWord.exe.config
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\DigitAsAWord\bin\Debug\DigitAsAWord.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\DigitAsAWord\bin\Debug\DigitAsAWord.pdb
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\DigitAsAWord\obj\Debug\DigitAsAWord.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\DigitAsAWord\obj\Debug\DigitAsAWord.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\DigitAsAWord\obj\Debug\DigitAsAWord.pdb

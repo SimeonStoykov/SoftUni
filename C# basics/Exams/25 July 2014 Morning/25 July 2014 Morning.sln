@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelonsAndWatermelons", "Melons and Watermelons\MelonsAndWatermelons.csproj", "{A3369B15-A0B4-4ADF-A37C-273D85E15EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettersSymbolsNumbers", "LettersSymbolsNumbers\LettersSymbolsNumbers.csproj", "{898B1586-51B1-4211-A340-A69DD11D6E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaScotlandFlag", "PandaScotlandFlag\PandaScotlandFlag.csproj", "{404AABEE-AD19-43A9-8D11-9F5FDA08D0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeNumbers", "MorseCodeNumbers\MorseCodeNumbers.csproj", "{11FC1F30-64DB-47AE-95B5-B0DD546D4D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPaths", "BitPaths\BitPaths.csproj", "{40D7D188-0340-4890-81BC-FA6D34AA5B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPathsBitwise", "BitPathsBitwise\BitPathsBitwise.csproj", "{4522F058-CF65-4F51-AE3D-15BDE12964E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3369B15-A0B4-4ADF-A37C-273D85E15EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3369B15-A0B4-4ADF-A37C-273D85E15EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3369B15-A0B4-4ADF-A37C-273D85E15EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3369B15-A0B4-4ADF-A37C-273D85E15EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898B1586-51B1-4211-A340-A69DD11D6E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898B1586-51B1-4211-A340-A69DD11D6E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898B1586-51B1-4211-A340-A69DD11D6E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898B1586-51B1-4211-A340-A69DD11D6E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404AABEE-AD19-43A9-8D11-9F5FDA08D0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404AABEE-AD19-43A9-8D11-9F5FDA08D0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404AABEE-AD19-43A9-8D11-9F5FDA08D0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404AABEE-AD19-43A9-8D11-9F5FDA08D0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FC1F30-64DB-47AE-95B5-B0DD546D4D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FC1F30-64DB-47AE-95B5-B0DD546D4D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FC1F30-64DB-47AE-95B5-B0DD546D4D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FC1F30-64DB-47AE-95B5-B0DD546D4D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D7D188-0340-4890-81BC-FA6D34AA5B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D7D188-0340-4890-81BC-FA6D34AA5B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D7D188-0340-4890-81BC-FA6D34AA5B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D7D188-0340-4890-81BC-FA6D34AA5B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4522F058-CF65-4F51-AE3D-15BDE12964E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4522F058-CF65-4F51-AE3D-15BDE12964E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4522F058-CF65-4F51-AE3D-15BDE12964E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4522F058-CF65-4F51-AE3D-15BDE12964E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

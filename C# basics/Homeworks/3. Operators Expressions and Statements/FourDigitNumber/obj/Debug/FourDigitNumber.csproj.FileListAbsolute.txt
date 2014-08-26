@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Illuminati\bin\Debug\Illuminati.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Illuminati\bin\Debug\Illuminati.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Illuminati\bin\Debug\Illuminati.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Illuminati\obj\Debug\Illuminati.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Illuminati\obj\Debug\Illuminati.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Illuminati\bin\Debug\Illuminati.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Illuminati\obj\Debug\Illuminati.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Illuminati\obj\Debug\Illuminati.pdb

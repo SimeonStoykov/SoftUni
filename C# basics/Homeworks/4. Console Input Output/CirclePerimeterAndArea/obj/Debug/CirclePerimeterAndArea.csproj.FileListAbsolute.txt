@@ -1,0 +1,5 @@
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

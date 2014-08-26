@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Trapezoids\bin\Debug\Trapezoids.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Trapezoids\bin\Debug\Trapezoids.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Trapezoids\obj\Debug\Trapezoids.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Trapezoids\obj\Debug\Trapezoids.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\Trapezoids\obj\Debug\Trapezoids.pdb

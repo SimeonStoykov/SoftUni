@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb

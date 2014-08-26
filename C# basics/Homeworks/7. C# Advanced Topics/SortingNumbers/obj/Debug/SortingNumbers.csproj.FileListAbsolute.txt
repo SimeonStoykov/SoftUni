@@ -1,0 +1,15 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\bin\Debug\SortingNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\SortingNumbers\obj\Debug\SortingNumbers.csprojResolveAssemblyReference.cache

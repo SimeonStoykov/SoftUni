@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb

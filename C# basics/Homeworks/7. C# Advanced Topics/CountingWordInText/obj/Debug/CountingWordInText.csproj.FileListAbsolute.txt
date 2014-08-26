@@ -1,0 +1,10 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountingWordInText\bin\Debug\CountingWordInText.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountingWordInText\bin\Debug\CountingWordInText.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountingWordInText\bin\Debug\CountingWordInText.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountingWordInText\obj\Debug\CountingWordInText.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountingWordInText\obj\Debug\CountingWordInText.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountingWordInText\bin\Debug\CountingWordInText.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountingWordInText\obj\Debug\CountingWordInText.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountingWordInText\obj\Debug\CountingWordInText.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountingWordInText\bin\Debug\CountingWordInText.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountingWordInText\bin\Debug\CountingWordInText.pdb

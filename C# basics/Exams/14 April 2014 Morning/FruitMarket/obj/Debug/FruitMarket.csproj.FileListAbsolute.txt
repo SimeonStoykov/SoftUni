@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\FruitMarket\bin\Debug\FruitMarket.exe.config
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\FruitMarket\bin\Debug\FruitMarket.exe
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\FruitMarket\bin\Debug\FruitMarket.pdb
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.exe
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\14 April 2014 Morning\FruitMarket\bin\Debug\FruitMarket.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Morning\FruitMarket\bin\Debug\FruitMarket.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Morning\FruitMarket\obj\Debug\FruitMarket.pdb

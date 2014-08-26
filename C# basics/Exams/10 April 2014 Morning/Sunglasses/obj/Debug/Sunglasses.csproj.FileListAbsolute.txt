@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\Sunglasses\bin\Debug\Sunglasses.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\Sunglasses\obj\Debug\Sunglasses.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\Sunglasses\obj\Debug\Sunglasses.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\Sunglasses\obj\Debug\Sunglasses.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache

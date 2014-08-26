@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.pdb
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb

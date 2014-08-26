@@ -1,0 +1,12 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.csprojResolveAssemblyReference.cache

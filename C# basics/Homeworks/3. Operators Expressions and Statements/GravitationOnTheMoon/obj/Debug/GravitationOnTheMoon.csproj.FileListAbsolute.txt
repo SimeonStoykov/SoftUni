@@ -1,0 +1,8 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

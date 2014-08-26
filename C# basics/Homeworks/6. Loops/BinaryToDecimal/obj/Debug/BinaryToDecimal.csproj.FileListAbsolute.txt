@@ -1,0 +1,12 @@
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache

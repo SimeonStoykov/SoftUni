@@ -1,0 +1,5 @@
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BeerTime\bin\Debug\BeerTime.exe.config
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BeerTime\bin\Debug\BeerTime.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BeerTime\bin\Debug\BeerTime.pdb
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BeerTime\obj\Debug\BeerTime.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BeerTime\obj\Debug\BeerTime.pdb

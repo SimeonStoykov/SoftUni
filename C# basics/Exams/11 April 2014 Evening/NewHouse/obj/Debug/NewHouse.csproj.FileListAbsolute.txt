@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\NewHouse\bin\Debug\NewHouse.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\NewHouse\bin\Debug\NewHouse.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\NewHouse\bin\Debug\NewHouse.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\NewHouse\obj\Debug\NewHouse.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\NewHouse\obj\Debug\NewHouse.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\NewHouse\obj\Debug\NewHouse.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache

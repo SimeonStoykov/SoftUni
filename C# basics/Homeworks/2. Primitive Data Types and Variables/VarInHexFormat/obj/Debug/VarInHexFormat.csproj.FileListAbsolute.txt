@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\VarInHexFormat\bin\Debug\VarInHexFormat.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\VarInHexFormat\bin\Debug\VarInHexFormat.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\VarInHexFormat\bin\Debug\VarInHexFormat.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\VarInHexFormat\obj\Debug\VarInHexFormat.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\VarInHexFormat\obj\Debug\VarInHexFormat.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\VarInHexFormat\bin\Debug\VarInHexFormat.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\VarInHexFormat\obj\Debug\VarInHexFormat.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\VarInHexFormat\obj\Debug\VarInHexFormat.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\VarInHexFormat\bin\Debug\VarInHexFormat.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\VarInHexFormat\bin\Debug\VarInHexFormat.pdb

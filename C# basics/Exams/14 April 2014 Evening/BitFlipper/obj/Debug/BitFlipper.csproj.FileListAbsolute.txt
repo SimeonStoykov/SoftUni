@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipper\bin\Debug\BitFlipper.exe.config
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipper\obj\Debug\BitFlipper.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipper\bin\Debug\BitFlipper.exe
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipper\bin\Debug\BitFlipper.pdb
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipper\obj\Debug\BitFlipper.exe
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipper\obj\Debug\BitFlipper.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\BitFlipper\bin\Debug\BitFlipper.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\BitFlipper\obj\Debug\BitFlipper.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\BitFlipper\obj\Debug\BitFlipper.pdb

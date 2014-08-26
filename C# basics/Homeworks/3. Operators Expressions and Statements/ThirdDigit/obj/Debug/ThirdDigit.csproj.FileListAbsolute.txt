@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ThirdDigit\bin\Debug\ThirdDigit.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ThirdDigit\bin\Debug\ThirdDigit.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ThirdDigit\obj\Debug\ThirdDigit.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ThirdDigit\obj\Debug\ThirdDigit.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ThirdDigit\obj\Debug\ThirdDigit.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache

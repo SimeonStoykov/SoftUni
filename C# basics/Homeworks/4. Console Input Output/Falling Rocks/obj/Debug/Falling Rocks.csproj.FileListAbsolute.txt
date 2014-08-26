@@ -1,0 +1,1 @@
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\Falling Rocks\bin\Debug\Falling Rocks.exe.config

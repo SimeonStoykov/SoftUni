@@ -1,0 +1,8 @@
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb

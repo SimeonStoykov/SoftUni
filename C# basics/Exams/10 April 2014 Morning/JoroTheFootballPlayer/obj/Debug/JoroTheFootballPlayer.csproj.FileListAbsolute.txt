@@ -1,0 +1,18 @@
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

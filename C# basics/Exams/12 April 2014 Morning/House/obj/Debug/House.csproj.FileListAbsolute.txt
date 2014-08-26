@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\House\bin\Debug\House.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\House\bin\Debug\House.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\House\bin\Debug\House.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\House\obj\Debug\House.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\House\obj\Debug\House.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\House\bin\Debug\House.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\House\obj\Debug\House.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\House\obj\Debug\House.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\House\bin\Debug\House.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\House\bin\Debug\House.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\House\obj\Debug\House.csprojResolveAssemblyReference.cache

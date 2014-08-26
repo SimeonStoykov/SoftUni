@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\14 April 2014 Evening\StudentCables\bin\Debug\StudentCables.exe.config
+D:\СофтУни\C# основи\Изпити\14 April 2014 Evening\StudentCables\bin\Debug\StudentCables.exe
+D:\СофтУни\C# основи\Изпити\14 April 2014 Evening\StudentCables\bin\Debug\StudentCables.pdb
+D:\СофтУни\C# основи\Изпити\14 April 2014 Evening\StudentCables\obj\Debug\StudentCables.exe
+D:\СофтУни\C# основи\Изпити\14 April 2014 Evening\StudentCables\obj\Debug\StudentCables.pdb
+D:\СофтУни\C# основи\Изпити\14 April 2014 Evening\StudentCables\obj\Debug\StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\StudentCables\bin\Debug\StudentCables.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\StudentCables\obj\Debug\StudentCables.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\StudentCables\obj\Debug\StudentCables.pdb

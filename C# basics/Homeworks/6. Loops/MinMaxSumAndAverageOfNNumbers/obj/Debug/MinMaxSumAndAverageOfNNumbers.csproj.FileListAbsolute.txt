@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb

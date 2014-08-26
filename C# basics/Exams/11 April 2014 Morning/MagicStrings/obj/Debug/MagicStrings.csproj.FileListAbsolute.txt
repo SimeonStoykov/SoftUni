@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\MagicStrings\bin\Debug\MagicStrings.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\MagicStrings\bin\Debug\MagicStrings.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\MagicStrings\bin\Debug\MagicStrings.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\MagicStrings\obj\Debug\MagicStrings.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\MagicStrings\obj\Debug\MagicStrings.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\MagicStrings\bin\Debug\MagicStrings.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\MagicStrings\obj\Debug\MagicStrings.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\MagicStrings\obj\Debug\MagicStrings.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\MagicStrings\bin\Debug\MagicStrings.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\MagicStrings\bin\Debug\MagicStrings.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache

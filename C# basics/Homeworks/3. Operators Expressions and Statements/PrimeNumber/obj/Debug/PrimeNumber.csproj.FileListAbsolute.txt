@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache

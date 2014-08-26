@@ -1,0 +1,5 @@
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BonusScore\bin\Debug\BonusScore.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BonusScore\bin\Debug\BonusScore.pdb
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BonusScore\obj\Debug\BonusScore.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\BonusScore\obj\Debug\BonusScore.pdb

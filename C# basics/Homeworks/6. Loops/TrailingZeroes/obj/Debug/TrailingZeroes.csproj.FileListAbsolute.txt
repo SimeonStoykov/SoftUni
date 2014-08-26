@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb

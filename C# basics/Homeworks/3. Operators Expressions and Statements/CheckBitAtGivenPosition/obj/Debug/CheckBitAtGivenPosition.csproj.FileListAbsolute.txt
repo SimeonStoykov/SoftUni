@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.csprojResolveAssemblyReference.cache

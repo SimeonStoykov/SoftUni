@@ -1,0 +1,12 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\LongestWordInText\bin\Debug\LongestWordInText.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\LongestWordInText\bin\Debug\LongestWordInText.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\LongestWordInText\bin\Debug\LongestWordInText.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\LongestWordInText\obj\Debug\LongestWordInText.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\LongestWordInText\obj\Debug\LongestWordInText.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\LongestWordInText\obj\Debug\LongestWordInText.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\LongestWordInText\bin\Debug\LongestWordInText.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\LongestWordInText\obj\Debug\LongestWordInText.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\LongestWordInText\obj\Debug\LongestWordInText.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\LongestWordInText\bin\Debug\LongestWordInText.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\LongestWordInText\bin\Debug\LongestWordInText.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\LongestWordInText\obj\Debug\LongestWordInText.csprojResolveAssemblyReference.cache

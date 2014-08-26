@@ -1,0 +1,14 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\WorkHours\bin\Debug\WorkHours.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache

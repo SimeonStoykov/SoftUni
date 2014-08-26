@@ -1,0 +1,15 @@
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.csprojResolveAssemblyReference.cache

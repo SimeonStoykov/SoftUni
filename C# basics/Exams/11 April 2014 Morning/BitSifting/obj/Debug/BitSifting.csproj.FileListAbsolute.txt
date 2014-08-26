@@ -1,0 +1,6 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\BitSifting\bin\Debug\BitSifting.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\BitSifting\bin\Debug\BitSifting.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\BitSifting\bin\Debug\BitSifting.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\BitSifting\obj\Debug\BitSifting.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\BitSifting\obj\Debug\BitSifting.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\BitSifting\obj\Debug\BitSifting.pdb

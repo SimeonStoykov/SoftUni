@@ -1,0 +1,12 @@
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\bin\Debug\Melons and Watermelons.exe.config
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\bin\Debug\Melons and Watermelons.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\bin\Debug\Melons and Watermelons.pdb
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\Melons and Watermelons.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\Melons and Watermelons.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\bin\Debug\Melons and Watermelons.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\Melons and Watermelons.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\Melons and Watermelons.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\bin\Debug\Melons and Watermelons.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\Melons and Watermelons.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\Melons and Watermelons\obj\Debug\Melons and Watermelons.pdb

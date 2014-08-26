@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\ExamSchedule\bin\Debug\ExamSchedule.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\ExamSchedule\bin\Debug\ExamSchedule.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\12 April 2014 Evening\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\ExamSchedule\obj\Debug\ExamSchedule.pdb

@@ -1,0 +1,8 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointsInAndOut\bin\Debug\PointsInAndOut.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointsInAndOut\bin\Debug\PointsInAndOut.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointsInAndOut\bin\Debug\PointsInAndOut.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointsInAndOut\obj\Debug\PointsInAndOut.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointsInAndOut\obj\Debug\PointsInAndOut.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PointsInAndOut\bin\Debug\PointsInAndOut.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PointsInAndOut\obj\Debug\PointsInAndOut.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PointsInAndOut\obj\Debug\PointsInAndOut.pdb

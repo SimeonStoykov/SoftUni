@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb

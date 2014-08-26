@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\SumOfElements\bin\Debug\SumOfElements.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\SumOfElements\bin\Debug\SumOfElements.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\SumOfElements\bin\Debug\SumOfElements.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\SumOfElements\obj\Debug\SumOfElements.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\SumOfElements\obj\Debug\SumOfElements.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\SumOfElements\bin\Debug\SumOfElements.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\SumOfElements\obj\Debug\SumOfElements.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\SumOfElements\obj\Debug\SumOfElements.pdb

@@ -1,0 +1,5 @@
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+D:\СофтУни\C# основи\Условни конструкции\Conditional Statements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

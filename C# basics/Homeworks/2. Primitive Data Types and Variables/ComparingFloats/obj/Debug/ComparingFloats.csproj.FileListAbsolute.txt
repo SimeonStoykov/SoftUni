@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\ComparingFloats\bin\Debug\ComparingFloats.pdb

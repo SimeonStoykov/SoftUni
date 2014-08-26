@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBit\bin\Debug\ExtractBit.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBit\bin\Debug\ExtractBit.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBit\bin\Debug\ExtractBit.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBit\obj\Debug\ExtractBit.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBit\obj\Debug\ExtractBit.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBit\obj\Debug\ExtractBit.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ExtractBit\bin\Debug\ExtractBit.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ExtractBit\obj\Debug\ExtractBit.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ExtractBit\obj\Debug\ExtractBit.pdb

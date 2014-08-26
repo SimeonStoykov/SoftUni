@@ -1,0 +1,15 @@
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache

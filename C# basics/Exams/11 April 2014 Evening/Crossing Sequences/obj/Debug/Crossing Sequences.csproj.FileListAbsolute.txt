@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Crossing Sequences\bin\Debug\Crossing Sequences.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Crossing Sequences\bin\Debug\Crossing Sequences.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Crossing Sequences\bin\Debug\Crossing Sequences.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Crossing Sequences\obj\Debug\Crossing Sequences.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Crossing Sequences\obj\Debug\Crossing Sequences.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Crossing Sequences\obj\Debug\Crossing Sequences.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Crossing Sequences\bin\Debug\Crossing Sequences.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Crossing Sequences\obj\Debug\Crossing Sequences.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Crossing Sequences\obj\Debug\Crossing Sequences.pdb

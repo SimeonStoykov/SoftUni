@@ -1,0 +1,15 @@
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\Tribonacci\bin\Debug\Tribonacci.exe.config
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\Tribonacci\bin\Debug\Tribonacci.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\Tribonacci\bin\Debug\Tribonacci.pdb
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.pdb
+C:\Users\Simeon\Desktop\New folder\C# basics\Exams\Sample Exam May 2014\Tribonacci\bin\Debug\Tribonacci.exe.config
+C:\Users\Simeon\Desktop\New folder\C# basics\Exams\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.exe
+C:\Users\Simeon\Desktop\New folder\C# basics\Exams\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\Tribonacci\bin\Debug\Tribonacci.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\Tribonacci\bin\Debug\Tribonacci.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\Tribonacci\obj\Debug\Tribonacci.pdb

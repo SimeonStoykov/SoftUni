@@ -1,0 +1,10 @@
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\RandomizeTheNumbers1…N\bin\Debug\RandomizeTheNumbers1…N.exe.config
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\RandomizeTheNumbers1…N\bin\Debug\RandomizeTheNumbers1…N.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\RandomizeTheNumbers1…N\bin\Debug\RandomizeTheNumbers1…N.pdb
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\RandomizeTheNumbers1…N\obj\Debug\RandomizeTheNumbers1…N.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\RandomizeTheNumbers1…N\obj\Debug\RandomizeTheNumbers1…N.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\RandomizeTheNumbers1…N\bin\Debug\RandomizeTheNumbers1…N.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\RandomizeTheNumbers1…N\obj\Debug\RandomizeTheNumbers1…N.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\RandomizeTheNumbers1…N\obj\Debug\RandomizeTheNumbers1…N.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\RandomizeTheNumbers1…N\bin\Debug\RandomizeTheNumbers1…N.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\RandomizeTheNumbers1…N\bin\Debug\RandomizeTheNumbers1…N.pdb

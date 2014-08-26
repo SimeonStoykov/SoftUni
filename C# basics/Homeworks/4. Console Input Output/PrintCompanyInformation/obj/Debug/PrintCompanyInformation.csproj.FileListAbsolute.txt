@@ -1,0 +1,11 @@
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\4. Console Input Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\4. Console Input Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\4. Console Input Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

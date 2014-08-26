@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\10 April 2014 Evening\BitsUp\bin\Debug\BitsUp.exe.config
+D:\СофтУни\C# основи\Изпити\10 April 2014 Evening\BitsUp\bin\Debug\BitsUp.exe
+D:\СофтУни\C# основи\Изпити\10 April 2014 Evening\BitsUp\bin\Debug\BitsUp.pdb
+D:\СофтУни\C# основи\Изпити\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.exe
+D:\СофтУни\C# основи\Изпити\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.pdb
+D:\GitHub\SoftUni\C# basics\Exams\10 April 2014 Evening\BitsUp\bin\Debug\BitsUp.exe.config
+D:\GitHub\SoftUni\C# basics\Exams\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.exe
+D:\GitHub\SoftUni\C# basics\Exams\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Evening\BitsUp\bin\Debug\BitsUp.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Evening\BitsUp\obj\Debug\BitsUp.pdb

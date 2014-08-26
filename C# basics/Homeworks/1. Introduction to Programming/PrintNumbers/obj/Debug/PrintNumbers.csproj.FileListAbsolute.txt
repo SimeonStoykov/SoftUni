@@ -1,0 +1,8 @@
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb

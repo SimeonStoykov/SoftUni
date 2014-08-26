@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

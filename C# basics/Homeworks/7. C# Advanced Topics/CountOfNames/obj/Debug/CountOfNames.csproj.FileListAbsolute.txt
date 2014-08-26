@@ -1,0 +1,8 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountOfNames\bin\Debug\CountOfNames.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountOfNames\bin\Debug\CountOfNames.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountOfNames\bin\Debug\CountOfNames.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountOfNames\obj\Debug\CountOfNames.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountOfNames\obj\Debug\CountOfNames.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountOfNames\bin\Debug\CountOfNames.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountOfNames\obj\Debug\CountOfNames.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountOfNames\obj\Debug\CountOfNames.pdb

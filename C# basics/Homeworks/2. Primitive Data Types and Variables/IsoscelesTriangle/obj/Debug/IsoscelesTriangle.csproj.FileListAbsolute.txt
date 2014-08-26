@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb

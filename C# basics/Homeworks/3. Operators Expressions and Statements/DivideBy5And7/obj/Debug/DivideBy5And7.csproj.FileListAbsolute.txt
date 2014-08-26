@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\DivideBy5And7\bin\Debug\DivideBy5And7.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\DivideBy5And7\bin\Debug\DivideBy5And7.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\DivideBy5And7\bin\Debug\DivideBy5And7.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\DivideBy5And7\obj\Debug\DivideBy5And7.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\DivideBy5And7\obj\Debug\DivideBy5And7.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\DivideBy5And7\obj\Debug\DivideBy5And7.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\DivideBy5And7\bin\Debug\DivideBy5And7.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\DivideBy5And7\obj\Debug\DivideBy5And7.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\DivideBy5And7\obj\Debug\DivideBy5And7.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\DivideBy5And7\bin\Debug\DivideBy5And7.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\DivideBy5And7\bin\Debug\DivideBy5And7.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\DivideBy5And7\obj\Debug\DivideBy5And7.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.exe.config
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.pdb
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.pdb
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.exe.config
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.exe
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.pdb
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.exe
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.pdb
+D:\СофтУни\C# основи\Изпити\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\BitsInverter\bin\Debug\BitsInverter.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache

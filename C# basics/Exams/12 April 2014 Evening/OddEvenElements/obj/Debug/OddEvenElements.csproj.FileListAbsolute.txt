@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\OddEvenElements\bin\Debug\OddEvenElements.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\OddEvenElements\bin\Debug\OddEvenElements.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\12 April 2014 Evening\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\OddEvenElements\obj\Debug\OddEvenElements.pdb

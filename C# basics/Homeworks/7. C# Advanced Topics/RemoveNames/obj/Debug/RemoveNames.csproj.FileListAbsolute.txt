@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\RemoveNames\bin\Debug\RemoveNames.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\RemoveNames\bin\Debug\RemoveNames.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\RemoveNames\bin\Debug\RemoveNames.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\RemoveNames\obj\Debug\RemoveNames.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\RemoveNames\obj\Debug\RemoveNames.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\RemoveNames\obj\Debug\RemoveNames.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\RemoveNames\bin\Debug\RemoveNames.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\RemoveNames\obj\Debug\RemoveNames.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\RemoveNames\obj\Debug\RemoveNames.pdb

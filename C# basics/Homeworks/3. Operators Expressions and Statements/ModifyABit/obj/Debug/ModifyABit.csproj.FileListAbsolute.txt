@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ModifyABit\bin\Debug\ModifyABit.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ModifyABit\bin\Debug\ModifyABit.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ModifyABit\bin\Debug\ModifyABit.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ModifyABit\obj\Debug\ModifyABit.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ModifyABit\obj\Debug\ModifyABit.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\ModifyABit\obj\Debug\ModifyABit.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ModifyABit\bin\Debug\ModifyABit.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ModifyABit\obj\Debug\ModifyABit.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\ModifyABit\obj\Debug\ModifyABit.pdb

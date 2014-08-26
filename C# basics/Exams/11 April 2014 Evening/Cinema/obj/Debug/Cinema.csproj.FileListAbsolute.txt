@@ -1,0 +1,14 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\11 April 2014 Evening\Cinema\bin\Debug\Cinema.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\11 April 2014 Evening\Cinema\bin\Debug\Cinema.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\11 April 2014 Evening\Cinema\bin\Debug\Cinema.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\11 April 2014 Evening\Cinema\obj\Debug\Cinema.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\11 April 2014 Evening\Cinema\obj\Debug\Cinema.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Cinema\bin\Debug\Cinema.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Cinema\obj\Debug\Cinema.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Evening\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\11 April 2014 Evening\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\11 April 2014 Evening\Cinema\obj\Debug\Cinema.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\11 April 2014 Evening\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Cinema\obj\Debug\Cinema.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Evening\Cinema\obj\Debug\Cinema.pdb

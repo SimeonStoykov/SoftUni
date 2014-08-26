@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitBoxInBox", "FitBoxInBox\FitBoxInBox.csproj", "{0822C01D-E168-43CD-ADEF-DA74893DA0BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceOfKNumbers", "SequenceOfKNumbers\SequenceOfKNumbers.csproj", "{25EA7AB1-5466-4BB9-9F85-8F9C6AF58BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disk", "Disk\Disk.csproj", "{4EFA18FD-E88A-4A95-A354-973A2123C018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerStraight", "PokerStraight\PokerStraight.csproj", "{0A24262A-83D0-4A38-97F1-B223470E4F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendBits", "FriendBits\FriendBits.csproj", "{46CCBDE0-CFBE-4121-AD9C-243E2EA9CF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendBitsBitwise", "FriendBitsBitwise\FriendBitsBitwise.csproj", "{1E154954-07AF-4B48-8CAA-5BC0EFC03ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0822C01D-E168-43CD-ADEF-DA74893DA0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0822C01D-E168-43CD-ADEF-DA74893DA0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0822C01D-E168-43CD-ADEF-DA74893DA0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0822C01D-E168-43CD-ADEF-DA74893DA0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EA7AB1-5466-4BB9-9F85-8F9C6AF58BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EA7AB1-5466-4BB9-9F85-8F9C6AF58BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EA7AB1-5466-4BB9-9F85-8F9C6AF58BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EA7AB1-5466-4BB9-9F85-8F9C6AF58BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFA18FD-E88A-4A95-A354-973A2123C018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFA18FD-E88A-4A95-A354-973A2123C018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFA18FD-E88A-4A95-A354-973A2123C018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFA18FD-E88A-4A95-A354-973A2123C018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A24262A-83D0-4A38-97F1-B223470E4F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A24262A-83D0-4A38-97F1-B223470E4F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A24262A-83D0-4A38-97F1-B223470E4F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A24262A-83D0-4A38-97F1-B223470E4F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CCBDE0-CFBE-4121-AD9C-243E2EA9CF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CCBDE0-CFBE-4121-AD9C-243E2EA9CF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CCBDE0-CFBE-4121-AD9C-243E2EA9CF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CCBDE0-CFBE-4121-AD9C-243E2EA9CF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E154954-07AF-4B48-8CAA-5BC0EFC03ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E154954-07AF-4B48-8CAA-5BC0EFC03ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E154954-07AF-4B48-8CAA-5BC0EFC03ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E154954-07AF-4B48-8CAA-5BC0EFC03ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

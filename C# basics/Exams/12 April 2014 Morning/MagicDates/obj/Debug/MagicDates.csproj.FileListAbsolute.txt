@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\MagicDates\bin\Debug\MagicDates.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\MagicDates\bin\Debug\MagicDates.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\MagicDates\bin\Debug\MagicDates.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\MagicDates\obj\Debug\MagicDates.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\MagicDates\obj\Debug\MagicDates.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\MagicDates\bin\Debug\MagicDates.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\MagicDates\obj\Debug\MagicDates.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\MagicDates\obj\Debug\MagicDates.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\MagicDates\bin\Debug\MagicDates.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\MagicDates\bin\Debug\MagicDates.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache

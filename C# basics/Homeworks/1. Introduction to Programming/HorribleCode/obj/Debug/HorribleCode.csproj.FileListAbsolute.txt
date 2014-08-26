@@ -1,0 +1,10 @@
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\HorribleCode\bin\Debug\HorribleCode.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\HorribleCode\obj\Debug\HorribleCode.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\HorribleCode\obj\Debug\HorribleCode.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\HorribleCode\bin\Debug\HorribleCode.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\HorribleCode\bin\Debug\HorribleCode.pdb

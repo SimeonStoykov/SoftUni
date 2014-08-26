@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\TheExplorer\bin\Debug\TheExplorer.exe.config
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\TheExplorer\bin\Debug\TheExplorer.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\TheExplorer\bin\Debug\TheExplorer.pdb
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\TheExplorer\obj\Debug\TheExplorer.exe
+D:\СофтУни\C# основи\Изпити\11 April 2014 Morning\TheExplorer\obj\Debug\TheExplorer.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\TheExplorer\bin\Debug\TheExplorer.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\TheExplorer\obj\Debug\TheExplorer.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\TheExplorer\obj\Debug\TheExplorer.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\TheExplorer\bin\Debug\TheExplorer.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\TheExplorer\bin\Debug\TheExplorer.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\11 April 2014 Morning\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache

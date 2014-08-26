@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe.config
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.pdb
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.exe
+D:\СофтУни\C# основи\Изпити\14 April 2014 Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.pdb

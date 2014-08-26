@@ -1,0 +1,13 @@
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.exe.config
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.pdb
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\SandGlass\obj\Debug\SandGlass.exe
+D:\СофтУни\C# основи\Изпити\Sample Exam May 2014\SandGlass\obj\Debug\SandGlass.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\SandGlass\obj\Debug\SandGlass.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\Sample Exam May 2014\SandGlass\obj\Debug\SandGlass.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\SandGlass\obj\Debug\SandGlass.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\SandGlass\obj\Debug\SandGlass.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\Sample Exam May 2014\SandGlass\bin\Debug\SandGlass.pdb

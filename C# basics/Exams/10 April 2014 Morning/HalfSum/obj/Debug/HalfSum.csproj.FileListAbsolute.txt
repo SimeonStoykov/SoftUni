@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\HalfSum\bin\Debug\HalfSum.exe.config
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\HalfSum\bin\Debug\HalfSum.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\HalfSum\bin\Debug\HalfSum.pdb
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\HalfSum\obj\Debug\HalfSum.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\HalfSum\obj\Debug\HalfSum.exe
+D:\СофтУни\C# основи\Условни конструкции\10 April 2014 Morning\HalfSum\obj\Debug\HalfSum.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\HalfSum\bin\Debug\HalfSum.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\HalfSum\obj\Debug\HalfSum.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\10 April 2014 Morning\HalfSum\obj\Debug\HalfSum.pdb

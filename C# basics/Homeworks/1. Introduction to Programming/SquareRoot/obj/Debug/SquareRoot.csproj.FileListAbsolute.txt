@@ -1,0 +1,10 @@
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\SquareRoot\bin\Debug\SquareRoot.pdb

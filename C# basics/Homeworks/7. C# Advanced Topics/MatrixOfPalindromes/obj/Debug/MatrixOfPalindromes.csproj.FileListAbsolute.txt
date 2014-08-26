@@ -1,0 +1,12 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\7. C# Advanced Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\7. C# Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\7. C# Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

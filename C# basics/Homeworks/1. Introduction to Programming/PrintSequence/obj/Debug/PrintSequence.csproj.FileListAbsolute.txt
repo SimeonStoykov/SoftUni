@@ -1,0 +1,10 @@
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\PrintSequence\bin\Debug\PrintSequence.pdb

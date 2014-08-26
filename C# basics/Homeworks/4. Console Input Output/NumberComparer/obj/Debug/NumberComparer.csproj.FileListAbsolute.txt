@@ -1,0 +1,11 @@
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.pdb
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
+D:\СофтУни\C# основи\Вход и изход от конзолата\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb
+D:\GitHub\SoftUni\C# basics\Homeworks\4. Console Input Output\NumberComparer\bin\Debug\NumberComparer.exe.config
+D:\GitHub\SoftUni\C# basics\Homeworks\4. Console Input Output\NumberComparer\obj\Debug\NumberComparer.exe
+D:\GitHub\SoftUni\C# basics\Homeworks\4. Console Input Output\NumberComparer\obj\Debug\NumberComparer.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\4. Console Input Output\NumberComparer\obj\Debug\NumberComparer.pdb

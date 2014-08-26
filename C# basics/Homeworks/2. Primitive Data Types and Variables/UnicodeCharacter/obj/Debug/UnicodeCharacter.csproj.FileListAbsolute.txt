@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\bin\Debug\BitPathsBitwise.exe.config
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\bin\Debug\BitPathsBitwise.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\bin\Debug\BitPathsBitwise.pdb
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\bin\Debug\BitPathsBitwise.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\bin\Debug\BitPathsBitwise.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\BitPathsBitwise\obj\Debug\BitPathsBitwise.pdb

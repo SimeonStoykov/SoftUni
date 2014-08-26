@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\BitKiller\bin\Debug\BitKiller.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\BitKiller\bin\Debug\BitKiller.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\BitKiller\bin\Debug\BitKiller.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\BitKiller\obj\Debug\BitKiller.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\BitKiller\obj\Debug\BitKiller.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Morning\BitKiller\obj\Debug\BitKiller.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\BitKiller\bin\Debug\BitKiller.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\BitKiller\obj\Debug\BitKiller.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Morning\BitKiller\obj\Debug\BitKiller.pdb

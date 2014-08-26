@@ -1,0 +1,12 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BankAccountData\bin\Debug\BankAccountData.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BankAccountData\bin\Debug\BankAccountData.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BankAccountData\bin\Debug\BankAccountData.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BankAccountData\obj\Debug\BankAccountData.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\BankAccountData\obj\Debug\BankAccountData.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BankAccountData\obj\Debug\BankAccountData.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache

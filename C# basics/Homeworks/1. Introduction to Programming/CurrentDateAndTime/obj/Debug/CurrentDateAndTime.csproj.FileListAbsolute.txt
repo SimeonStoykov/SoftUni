@@ -1,0 +1,12 @@
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+c:\users\simeon\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache

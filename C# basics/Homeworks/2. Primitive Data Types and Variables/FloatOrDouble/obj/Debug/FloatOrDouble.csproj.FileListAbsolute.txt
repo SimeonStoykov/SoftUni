@@ -1,0 +1,10 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb

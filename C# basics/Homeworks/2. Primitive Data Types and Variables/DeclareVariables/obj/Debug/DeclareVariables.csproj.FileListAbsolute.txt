@@ -1,0 +1,21 @@
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\СофтУни\C# основи\Примитивни типове данни и променливи\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+D:\SoftUni\C#\C# basics\July 2014\2. Primitive Data Types and Variables\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\SoftUni\C#\C# basics\July 2014\2. Primitive Data Types and Variables\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\SoftUni\C#\C# basics\July 2014\2. Primitive Data Types and Variables\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\2. Primitive Data Types and Variables\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\2. Primitive Data Types and Variables\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\2. Primitive Data Types and Variables\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\2. Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountОfLetters\bin\Debug\CountОfLetters.exe.config
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountОfLetters\bin\Debug\CountОfLetters.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountОfLetters\bin\Debug\CountОfLetters.pdb
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountОfLetters\obj\Debug\CountОfLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountОfLetters\obj\Debug\CountОfLetters.exe
+D:\SoftUni\C#\C# basics\March 2014\7. C# Advanced Topics\7. CSharp Advanced Topics\CountОfLetters\obj\Debug\CountОfLetters.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountОfLetters\bin\Debug\CountОfLetters.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountОfLetters\obj\Debug\CountОfLetters.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\7. C# Advanced Topics\CountОfLetters\obj\Debug\CountОfLetters.pdb

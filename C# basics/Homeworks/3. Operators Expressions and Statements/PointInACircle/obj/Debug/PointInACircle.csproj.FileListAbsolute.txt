@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointInACircle\bin\Debug\PointInACircle.exe.config
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointInACircle\bin\Debug\PointInACircle.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointInACircle\bin\Debug\PointInACircle.pdb
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointInACircle\obj\Debug\PointInACircle.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointInACircle\obj\Debug\PointInACircle.exe
+D:\СофтУни\C# основи\Оператори и изрази\OperatorsExpressionsandStatements\PointInACircle\obj\Debug\PointInACircle.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.pdb

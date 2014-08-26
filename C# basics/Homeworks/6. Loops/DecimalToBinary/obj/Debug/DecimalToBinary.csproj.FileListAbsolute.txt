@@ -1,0 +1,13 @@
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\SoftUni\C#\C# basics\March 2014\6. Loops\6. Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\6. Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\6. Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\6. Loops\DecimalToBinary\bin\Debug\DecimalToBinary.pdb

@@ -1,0 +1,9 @@
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\FiveSpeciallLetters\bin\Debug\FiveSpeciallLetters.exe.config
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\FiveSpeciallLetters\bin\Debug\FiveSpeciallLetters.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\FiveSpeciallLetters\bin\Debug\FiveSpeciallLetters.pdb
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\FiveSpeciallLetters\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\FiveSpeciallLetters\obj\Debug\FiveSpeciallLetters.exe
+D:\СофтУни\C# основи\Изпити\12 April 2014 Evening\FiveSpeciallLetters\obj\Debug\FiveSpeciallLetters.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\FiveSpeciallLetters\bin\Debug\FiveSpeciallLetters.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\FiveSpeciallLetters\obj\Debug\FiveSpeciallLetters.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\12 April 2014 Evening\FiveSpeciallLetters\obj\Debug\FiveSpeciallLetters.pdb

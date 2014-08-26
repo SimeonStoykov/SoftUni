@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\bin\Debug\BitFlipperBitwise.exe.config
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\bin\Debug\BitFlipperBitwise.exe
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\bin\Debug\BitFlipperBitwise.pdb
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\obj\Debug\BitFlipperBitwise.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\obj\Debug\BitFlipperBitwise.exe
+D:\SoftUni\C#\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\obj\Debug\BitFlipperBitwise.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\bin\Debug\BitFlipperBitwise.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\obj\Debug\BitFlipperBitwise.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\14 April 2014 Evening\BitFlipperBitwise\obj\Debug\BitFlipperBitwise.pdb

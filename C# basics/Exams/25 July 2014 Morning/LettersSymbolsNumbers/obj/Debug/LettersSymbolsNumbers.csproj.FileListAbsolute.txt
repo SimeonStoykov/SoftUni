@@ -1,0 +1,9 @@
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.pdb
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
+D:\SoftUni\C#\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\25 July 2014 Morning\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb
