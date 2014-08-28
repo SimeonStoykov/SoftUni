@@ -4,3 +4,6 @@ D:\SoftUni\C#\C# basics\Exams\22 August 2014\Tables\bin\Debug\Tables.pdb
 D:\SoftUni\C#\C# basics\Exams\22 August 2014\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
 D:\SoftUni\C#\C# basics\Exams\22 August 2014\Tables\obj\Debug\Tables.exe
 D:\SoftUni\C#\C# basics\Exams\22 August 2014\Tables\obj\Debug\Tables.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Tables\bin\Debug\Tables.exe.config
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Tables\obj\Debug\Tables.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Tables\obj\Debug\Tables.pdb
