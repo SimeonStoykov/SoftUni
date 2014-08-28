@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\bin\Debug\Car.exe.config
+D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\bin\Debug\Car.exe
+D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\bin\Debug\Car.pdb
+D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.exe
+D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.pdb
