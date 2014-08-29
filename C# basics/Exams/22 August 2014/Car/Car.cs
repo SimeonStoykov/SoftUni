@@ -30,8 +30,9 @@ class Car
 
         for (int i = 1; i <=(n/2)-2; i++)
         {
-            Console.WriteLine(new String('.', n / 2) + '*' + new String('.', (n / 2) - 1) + '*' + new String('.', (n - 2))
-                            + '*' + new String('.', (n / 2) - 1) + '*' + new String('.', n / 2));
+            Console.WriteLine(new String('.', n / 2) + '*' + new String('.', (n / 2) - 1) + '*' 
+                            + new String('.', (n - 2)) + '*' + new String('.', (n / 2) - 1) + '*' 
+                            + new String('.', n / 2));
         }
 
         Console.WriteLine(new String('.', n / 2) + new String('*', (n / 2) + 1) + new String('.', (n - 2)) 

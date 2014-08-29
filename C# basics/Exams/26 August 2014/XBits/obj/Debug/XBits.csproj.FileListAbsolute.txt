@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\Exams\26 August 2014\XBits\bin\Debug\XBits.exe.config
+D:\SoftUni\C#\C# basics\Exams\26 August 2014\XBits\bin\Debug\XBits.exe
+D:\SoftUni\C#\C# basics\Exams\26 August 2014\XBits\bin\Debug\XBits.pdb
+D:\SoftUni\C#\C# basics\Exams\26 August 2014\XBits\obj\Debug\XBits.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\Exams\26 August 2014\XBits\obj\Debug\XBits.exe
+D:\SoftUni\C#\C# basics\Exams\26 August 2014\XBits\obj\Debug\XBits.pdb

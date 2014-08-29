@@ -7,3 +7,6 @@ D:\SoftUni\C#\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.pdb
 C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Car\bin\Debug\Car.exe.config
 C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.exe
 C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Car\bin\Debug\Car.exe
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Car\bin\Debug\Car.pdb
+C:\Users\Simeon\Desktop\Revision\C# basics\Exams\22 August 2014\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
