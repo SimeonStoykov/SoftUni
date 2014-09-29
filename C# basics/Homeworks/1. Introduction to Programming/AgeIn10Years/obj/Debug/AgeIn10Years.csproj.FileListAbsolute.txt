@@ -8,3 +8,9 @@ C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programm
 C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\obj\Debug\AgeIn10Years.pdb
 C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\bin\Debug\AgeIn10Years.exe
 C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\bin\Debug\AgeIn10Years.pdb
+D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\bin\Debug\AgeIn10Years.exe.config
+D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\obj\Debug\AgeIn10Years.exe
+D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\obj\Debug\AgeIn10Years.pdb
+D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\bin\Debug\AgeIn10Years.exe
+D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\bin\Debug\AgeIn10Years.pdb
+D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\AgeIn10Years\obj\Debug\AgeIn10Years.csprojResolveAssemblyReference.cache
