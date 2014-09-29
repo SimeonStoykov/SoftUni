@@ -6,7 +6,8 @@ class AgeIn10Years
     {
         DateTime birthday = DateTime.Parse(Console.ReadLine());
         int ageNow = DateTime.Now.Year - birthday.Year;
-        if ((DateTime.Now.Month < birthday.Month) || ((DateTime.Now.Month == birthday.Month) && (DateTime.Now.Date < birthday.Date)))
+        if ((DateTime.Now.Month < birthday.Month) || ((DateTime.Now.Month == birthday.Month) 
+         && (DateTime.Now.Date < birthday.Date)))
         {
             ageNow--;
         }
