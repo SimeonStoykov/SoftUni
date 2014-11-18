@@ -10,3 +10,6 @@ C:\Users\Simeon\Desktop\ForUpload\C# basics\Homeworks\3. Operators Expressions a
 C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
 C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
 C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+D:\GitHub\SoftUni\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+D:\GitHub\SoftUni\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+D:\GitHub\SoftUni\C# basics\Homeworks\3. Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

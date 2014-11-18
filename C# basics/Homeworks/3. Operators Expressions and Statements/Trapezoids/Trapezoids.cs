@@ -14,4 +14,3 @@ class Trapezoids
         Console.WriteLine("The area is: " + area);
     }
 }
-

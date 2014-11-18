@@ -5,10 +5,10 @@ class FourDigitNumber
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
-        int char4 = n% 10;
-        int char3 = (n%100) / 10;
-        int char2 = (n%1000) / 100;
-        int char1 = (n%10000)/1000;
+        int char4 = n % 10;
+        int char3 = (n % 100) / 10;
+        int char2 = (n % 1000) / 100;
+        int char1 = (n % 10000) / 1000;
         int sum = char1 + char2 + char3 + char4;
         Console.WriteLine(sum);
         string d = char4.ToString();
@@ -20,4 +20,3 @@ class FourDigitNumber
         Console.WriteLine(a + c + b + d);            
     }
 }
-

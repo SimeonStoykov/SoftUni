@@ -29,4 +29,3 @@ class PointsInAndOut
         //Console.WriteLine(isInCircle && !isInRectangle ? "yes" : "no");           
     }
 }
-

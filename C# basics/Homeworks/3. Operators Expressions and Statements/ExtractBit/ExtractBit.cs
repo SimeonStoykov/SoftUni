@@ -11,4 +11,3 @@ class ExtractBit
         Console.WriteLine(bit);
     }
 }
-

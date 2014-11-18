@@ -11,4 +11,3 @@ class Rectangles
         Console.WriteLine("The perimeter is: {0} The area is: {1}", perimenter, area);
     }
 }
-

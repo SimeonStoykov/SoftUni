@@ -13,4 +13,3 @@ class PointInACircle
         Console.WriteLine("These coordinates are inside the circle = " + isInside);
     }
 }
-

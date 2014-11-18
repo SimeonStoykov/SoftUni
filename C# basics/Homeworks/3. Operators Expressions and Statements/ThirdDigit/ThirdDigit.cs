@@ -15,4 +15,3 @@ class ThirdDigit
         Console.WriteLine(isThird7);            
     }
 }
-

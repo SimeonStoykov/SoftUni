@@ -12,4 +12,3 @@ class ExtractBitFromInteger
         Console.WriteLine(bit);
     }
 }
-

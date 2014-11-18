@@ -54,5 +54,3 @@ class PrimeNumber
         //Console.WriteLine(isPrime);
     }
 }
-
-

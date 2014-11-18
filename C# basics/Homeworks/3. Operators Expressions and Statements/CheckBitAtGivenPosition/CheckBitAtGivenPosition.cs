@@ -10,11 +10,10 @@ class CheckBitAtGivenPosition
         int GetPBit = n >> p;
         int bit = GetPBit & 1;
         bool isOne = false;
-        if (bit==1)
+        if (bit == 1)
         {
             isOne = true;
         }
         Console.WriteLine(isOne);
     }
 }
-
