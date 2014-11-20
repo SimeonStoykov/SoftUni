@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\GameOfPage\bin\Debug\GameOfPage.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\GameOfPage\bin\Debug\GameOfPage.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\GameOfPage\bin\Debug\GameOfPage.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\GameOfPage\obj\Debug\GameOfPage.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\GameOfPage\obj\Debug\GameOfPage.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\GameOfPage\obj\Debug\GameOfPage.pdb

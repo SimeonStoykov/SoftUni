@@ -1,0 +1,5 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb

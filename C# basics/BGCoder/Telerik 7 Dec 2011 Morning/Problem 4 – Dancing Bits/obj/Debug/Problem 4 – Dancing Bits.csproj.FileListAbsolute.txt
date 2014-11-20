@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 7 Dec 2011 Morning\Problem 4 – Dancing Bits\bin\Debug\Problem 4 – Dancing Bits.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 7 Dec 2011 Morning\Problem 4 – Dancing Bits\bin\Debug\Problem 4 – Dancing Bits.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 7 Dec 2011 Morning\Problem 4 – Dancing Bits\bin\Debug\Problem 4 – Dancing Bits.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 7 Dec 2011 Morning\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 7 Dec 2011 Morning\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 7 Dec 2011 Morning\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.csprojResolveAssemblyReference.cache

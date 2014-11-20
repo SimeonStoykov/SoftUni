@@ -1,0 +1,5 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\BatGoikoTower\bin\Debug\BatGoikoTower.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\BatGoikoTower\bin\Debug\BatGoikoTower.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\BatGoikoTower\bin\Debug\BatGoikoTower.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\BatGoikoTower\obj\Debug\BatGoikoTower.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\BatGoikoTower\obj\Debug\BatGoikoTower.pdb

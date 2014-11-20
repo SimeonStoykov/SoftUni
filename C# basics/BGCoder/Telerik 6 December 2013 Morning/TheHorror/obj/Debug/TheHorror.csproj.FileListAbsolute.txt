@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\TheHorror\bin\Debug\TheHorror.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\TheHorror\bin\Debug\TheHorror.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\TheHorror\bin\Debug\TheHorror.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\TheHorror\obj\Debug\TheHorror.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\TheHorror\obj\Debug\TheHorror.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

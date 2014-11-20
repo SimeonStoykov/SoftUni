@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\DiamondTrolls\bin\Debug\DiamondTrolls.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\DiamondTrolls\bin\Debug\DiamondTrolls.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\DiamondTrolls\bin\Debug\DiamondTrolls.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\DiamondTrolls\obj\Debug\DiamondTrolls.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\DiamondTrolls\obj\Debug\DiamondTrolls.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\DiamondTrolls\obj\Debug\DiamondTrolls.pdb

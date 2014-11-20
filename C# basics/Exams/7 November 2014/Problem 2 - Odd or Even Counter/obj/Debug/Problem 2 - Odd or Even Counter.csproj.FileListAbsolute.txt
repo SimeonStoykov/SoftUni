@@ -1,0 +1,1 @@
+D:\GitHub\SoftUni\C# basics\Exams\7 November 2014\Problem 2 - Odd or Even Counter\bin\Debug\Problem 2 - Odd or Even Counter.exe.config

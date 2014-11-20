@@ -1,0 +1,5 @@
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 4 – Binary Digits Count\bin\Debug\Problem 4 – Binary Digits Count.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 4 – Binary Digits Count\bin\Debug\Problem 4 – Binary Digits Count.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 4 – Binary Digits Count\bin\Debug\Problem 4 – Binary Digits Count.pdb
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 4 – Binary Digits Count\obj\Debug\Problem 4 – Binary Digits Count.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 4 – Binary Digits Count\obj\Debug\Problem 4 – Binary Digits Count.pdb

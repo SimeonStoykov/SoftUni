@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\3-6-9\bin\Debug\3-6-9.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\3-6-9\bin\Debug\3-6-9.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\3-6-9\bin\Debug\3-6-9.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\3-6-9\obj\Debug\3-6-9.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\3-6-9\obj\Debug\3-6-9.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Morning\3-6-9\obj\Debug\3-6-9.pdb

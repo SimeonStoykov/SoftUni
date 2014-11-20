@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 2 – Tribonacci\bin\Debug\Problem 2 – Tribonacci.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 2 – Tribonacci\bin\Debug\Problem 2 – Tribonacci.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 2 – Tribonacci\bin\Debug\Problem 2 – Tribonacci.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 2 – Tribonacci\obj\Debug\Problem 2 – Tribonacci.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 2 – Tribonacci\obj\Debug\Problem 2 – Tribonacci.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 2 – Tribonacci\obj\Debug\Problem 2 – Tribonacci.csprojResolveAssemblyReference.cache

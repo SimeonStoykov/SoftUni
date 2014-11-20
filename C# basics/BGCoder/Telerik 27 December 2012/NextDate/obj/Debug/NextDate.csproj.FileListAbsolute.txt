@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\NextDate\bin\Debug\NextDate.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\NextDate\bin\Debug\NextDate.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\NextDate\bin\Debug\NextDate.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\NextDate\obj\Debug\NextDate.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\NextDate\obj\Debug\NextDate.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\NextDate\obj\Debug\NextDate.pdb

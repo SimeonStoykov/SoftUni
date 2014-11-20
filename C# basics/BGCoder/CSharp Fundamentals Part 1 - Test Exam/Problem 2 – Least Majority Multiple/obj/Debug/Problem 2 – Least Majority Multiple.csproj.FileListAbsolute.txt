@@ -1,0 +1,5 @@
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Test Exam\Problem 2 – Least Majority Multiple\bin\Debug\Problem 2 – Least Majority Multiple.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Test Exam\Problem 2 – Least Majority Multiple\bin\Debug\Problem 2 – Least Majority Multiple.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Test Exam\Problem 2 – Least Majority Multiple\bin\Debug\Problem 2 – Least Majority Multiple.pdb
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Test Exam\Problem 2 – Least Majority Multiple\obj\Debug\Problem 2 – Least Majority Multiple.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Test Exam\Problem 2 – Least Majority Multiple\obj\Debug\Problem 2 – Least Majority Multiple.pdb

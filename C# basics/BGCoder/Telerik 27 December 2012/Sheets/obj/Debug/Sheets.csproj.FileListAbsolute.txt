@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\Sheets\bin\Debug\Sheets.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\Sheets\bin\Debug\Sheets.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\Sheets\bin\Debug\Sheets.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\Sheets\obj\Debug\Sheets.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\Sheets\obj\Debug\Sheets.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 27 December 2012\Sheets\obj\Debug\Sheets.pdb

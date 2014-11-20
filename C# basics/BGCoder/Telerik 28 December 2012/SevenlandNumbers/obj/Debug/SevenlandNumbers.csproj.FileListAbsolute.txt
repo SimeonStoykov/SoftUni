@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

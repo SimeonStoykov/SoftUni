@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 December 2013 Evening\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.pdb

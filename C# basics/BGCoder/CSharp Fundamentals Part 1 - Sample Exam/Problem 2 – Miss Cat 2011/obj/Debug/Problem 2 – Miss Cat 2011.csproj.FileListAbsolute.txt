@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.pdb
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.pdb
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 3 – Fir Tree\bin\Debug\Problem 3 – Fir Tree.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 3 – Fir Tree\bin\Debug\Problem 3 – Fir Tree.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 3 – Fir Tree\bin\Debug\Problem 3 – Fir Tree.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 3 – Fir Tree\obj\Debug\Problem 3 – Fir Tree.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 3 – Fir Tree\obj\Debug\Problem 3 – Fir Tree.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 6 Dec 2011 Morning\Problem 3 – Fir Tree\obj\Debug\Problem 3 – Fir Tree.pdb

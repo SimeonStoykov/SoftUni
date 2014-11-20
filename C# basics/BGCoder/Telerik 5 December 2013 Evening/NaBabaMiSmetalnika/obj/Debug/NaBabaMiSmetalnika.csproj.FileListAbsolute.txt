@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.pdb

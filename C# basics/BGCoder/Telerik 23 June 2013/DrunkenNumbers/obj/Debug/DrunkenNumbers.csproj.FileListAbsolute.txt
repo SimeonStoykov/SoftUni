@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 23 June 2013\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache

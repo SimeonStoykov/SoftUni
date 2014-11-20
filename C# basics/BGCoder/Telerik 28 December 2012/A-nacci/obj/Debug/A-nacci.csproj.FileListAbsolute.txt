@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\A-nacci\bin\Debug\A-nacci.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\A-nacci\bin\Debug\A-nacci.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\A-nacci\bin\Debug\A-nacci.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\A-nacci\obj\Debug\A-nacci.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 28 December 2012\A-nacci\obj\Debug\A-nacci.pdb

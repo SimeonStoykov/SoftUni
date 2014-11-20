@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\CardWars\bin\Debug\CardWars.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\CardWars\bin\Debug\CardWars.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\CardWars\bin\Debug\CardWars.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\CardWars\obj\Debug\CardWars.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 24 June 2013 Evening\CardWars\obj\Debug\CardWars.pdb

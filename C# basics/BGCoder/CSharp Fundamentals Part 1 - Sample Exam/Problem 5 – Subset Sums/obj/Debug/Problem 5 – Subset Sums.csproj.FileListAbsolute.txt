@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 5 – Subset Sums\bin\Debug\Problem 5 – Subset Sums.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 5 – Subset Sums\bin\Debug\Problem 5 – Subset Sums.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 5 – Subset Sums\bin\Debug\Problem 5 – Subset Sums.pdb
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.pdb

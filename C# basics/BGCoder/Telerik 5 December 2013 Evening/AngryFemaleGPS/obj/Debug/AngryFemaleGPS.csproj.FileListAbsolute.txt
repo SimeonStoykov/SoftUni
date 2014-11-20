@@ -1,0 +1,5 @@
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.pdb
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+D:\SoftUni\C#\C# basics\BGCoder\Telerik 5 December 2013 Evening\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 3 – Forest Road\bin\Debug\Problem 3 – Forest Road.exe.config
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 3 – Forest Road\bin\Debug\Problem 3 – Forest Road.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 3 – Forest Road\bin\Debug\Problem 3 – Forest Road.pdb
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 3 – Forest Road\obj\Debug\Problem 3 – Forest Road.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 3 – Forest Road\obj\Debug\Problem 3 – Forest Road.exe
+D:\SoftUni\C#\C# basics\BGCoder\CSharp Fundamentals Part 1 - Sample Exam\Problem 3 – Forest Road\obj\Debug\Problem 3 – Forest Road.pdb
