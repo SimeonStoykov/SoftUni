@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 1 - Baba Tinche Airlines\bin\Debug\Problem 1 - Baba Tinche Airlines.exe.config
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 1 - Baba Tinche Airlines\bin\Debug\Problem 1 - Baba Tinche Airlines.exe
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 1 - Baba Tinche Airlines\bin\Debug\Problem 1 - Baba Tinche Airlines.pdb
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 1 - Baba Tinche Airlines\obj\Debug\Problem 1 - Baba Tinche Airlines.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 1 - Baba Tinche Airlines\obj\Debug\Problem 1 - Baba Tinche Airlines.exe
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 1 - Baba Tinche Airlines\obj\Debug\Problem 1 - Baba Tinche Airlines.pdb

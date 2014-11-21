@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 2 - Numerology\bin\Debug\Problem 2 - Numerology.exe.config
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 2 - Numerology\bin\Debug\Problem 2 - Numerology.exe
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 2 - Numerology\bin\Debug\Problem 2 - Numerology.pdb
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 2 - Numerology\obj\Debug\Problem 2 - Numerology.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 2 - Numerology\obj\Debug\Problem 2 - Numerology.exe
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 2 - Numerology\obj\Debug\Problem 2 - Numerology.pdb

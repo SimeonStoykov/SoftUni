@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 3 - RockLq\bin\Debug\Problem 3 - RockLq.exe.config
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 3 - RockLq\bin\Debug\Problem 3 - RockLq.exe
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 3 - RockLq\bin\Debug\Problem 3 - RockLq.pdb
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 3 - RockLq\obj\Debug\Problem 3 - RockLq.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 3 - RockLq\obj\Debug\Problem 3 - RockLq.exe
+D:\GitHub\SoftUni\C# basics\Exams\8 November 2014\Problem 3 - RockLq\obj\Debug\Problem 3 - RockLq.pdb
