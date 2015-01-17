@@ -34,3 +34,6 @@ C:\Users\Simeon\Desktop\Revision\C# basics\Homeworks\1. Introduction to Programm
 D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
 D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\HelloCSharp\obj\Debug\HelloCSharp.exe
 D:\DESKTOP\Revision\C# basics\Homeworks\1. Introduction to Programming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\GitHub\SoftUni\C# basics\Homeworks\1. Introduction to Programming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\GitHub\SoftUni\C# basics\Homeworks\1. Introduction to Programming\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\GitHub\SoftUni\C# basics\Homeworks\1. Introduction to Programming\HelloCSharp\obj\Debug\HelloCSharp.pdb
